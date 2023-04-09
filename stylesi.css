@@ -1,0 +1,17 @@
+body{
+background : white;
+}
+img{
+  width:540px;
+  height:480px;
+  border-radius: 2px;
+  border : 1px solid black;
+  box-shadow: 0px 0px 2px 2px black;
+}
+.tool{
+  display : flex;
+  justify-content: space-around;
+}
+a{
+    padding-top: 5%;
+}
